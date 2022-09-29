@@ -1,3 +1,2 @@
-# training2022
-Repository created as a part of git training 
-CHANGE MADE BY FARSEEN
+Change Made by Farseen
+Change made by Lasin
